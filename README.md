@@ -43,3 +43,7 @@ Business Impact & Insights
 ⚠ High recreational usage highlights need for digital awareness
 👥 Focused interventions can be designed for high-risk groups (e.g., males in urban areas)
 📚 Data-driven understanding to help schools and policymakers guide children towards balanced usage
+
+![Dashboard Preview](https://github.com/TusharKundekar/Indian-Kids-Screen-Time-Analysis/blob/main/Snapshot%20of%20Indian%20Kids%20Screen%20Time.jpg)
+
+
